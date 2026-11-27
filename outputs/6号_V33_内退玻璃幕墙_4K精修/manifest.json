@@ -1,0 +1,149 @@
+{
+  "source": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\广州氢能_6号视角_宋式水院效果图_V33_檐下内退玻璃幕墙.png",
+  "source_sha256": "5650bef7a44236a33914cdfe234d3fea6a6f94e96c59c2aceabdd27e501e63e3",
+  "source_size": [
+    1714,
+    918
+  ],
+  "output_size": [
+    3840,
+    2057
+  ],
+  "tile_size": [
+    560,
+    540
+  ],
+  "tile_count": 8,
+  "tiles": [
+    {
+      "id": "01_upper_1",
+      "box": [
+        0,
+        0,
+        560,
+        540
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\01_upper_1.png",
+      "output_box": [
+        0,
+        0,
+        1255,
+        1210
+      ]
+    },
+    {
+      "id": "02_upper_2",
+      "box": [
+        384,
+        0,
+        944,
+        540
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\02_upper_2.png",
+      "output_box": [
+        860,
+        0,
+        2115,
+        1210
+      ]
+    },
+    {
+      "id": "03_upper_3",
+      "box": [
+        770,
+        0,
+        1330,
+        540
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\03_upper_3.png",
+      "output_box": [
+        1725,
+        0,
+        2980,
+        1210
+      ]
+    },
+    {
+      "id": "04_upper_4",
+      "box": [
+        1154,
+        0,
+        1714,
+        540
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\04_upper_4.png",
+      "output_box": [
+        2585,
+        0,
+        3840,
+        1210
+      ]
+    },
+    {
+      "id": "05_lower_1",
+      "box": [
+        0,
+        378,
+        560,
+        918
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\05_lower_1.png",
+      "output_box": [
+        0,
+        847,
+        1255,
+        2057
+      ]
+    },
+    {
+      "id": "06_lower_2",
+      "box": [
+        384,
+        378,
+        944,
+        918
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\06_lower_2.png",
+      "output_box": [
+        860,
+        847,
+        2115,
+        2057
+      ]
+    },
+    {
+      "id": "07_lower_3",
+      "box": [
+        770,
+        378,
+        1330,
+        918
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\07_lower_3.png",
+      "output_box": [
+        1725,
+        847,
+        2980,
+        2057
+      ]
+    },
+    {
+      "id": "08_lower_4",
+      "box": [
+        1154,
+        378,
+        1714,
+        918
+      ],
+      "input": "C:\\Users\\WINDOWS\\Desktop\\氢能\\outputs\\6号_V33_内退玻璃幕墙_4K精修\\tiles_input\\08_lower_4.png",
+      "output_box": [
+        2585,
+        847,
+        3840,
+        2057
+      ]
+    }
+  ],
+  "selection": "V33 ONLY. All older design directions superseded by V33.",
+  "geometry_policy": "Preserve the V33 image composition and newly added recessed glass; no geometry redesign."
+}

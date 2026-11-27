@@ -1,0 +1,319 @@
+{
+  "source_sha256": "5650bef7a44236a33914cdfe234d3fea6a6f94e96c59c2aceabdd27e501e63e3",
+  "source_size": [
+    1714,
+    918
+  ],
+  "output_size": [
+    3840,
+    2057
+  ],
+  "tile_count": 8,
+  "total_generated_pixels": 12578450,
+  "all_tiles_at_least_target_size": true,
+  "coverage_percent": 100.0,
+  "method": "Eight independent built-in image_gen detail reconstructions. Single similarity registration per tile, low-frequency exposure and color matching to V33, graph-cut seam choice and multiband blend. No optical-flow / nonrigid warping.",
+  "protected_regions": [
+    [
+      2,
+      [
+        784,
+        92,
+        1136,
+        206
+      ]
+    ],
+    [
+      7,
+      [
+        1165,
+        562,
+        1598,
+        732
+      ]
+    ]
+  ],
+  "tiles": [
+    {
+      "id": "01_upper_1",
+      "native_size": [
+        1277,
+        1232
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 738,
+      "inliers": 666,
+      "median_registration_error_source_px": 0.4075568880717999,
+      "p95_registration_error_source_px": 1.220325908620607,
+      "similarity_transform": [
+        [
+          1.0007057329460833,
+          9.17599256751479e-05,
+          -0.010074381636688357
+        ],
+        [
+          -9.17599256751479e-05,
+          1.0007057329460833,
+          -0.17582244280628997
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        0,
+        0,
+        1255,
+        1210
+      ],
+      "sha256": "0dc9d559e455079141c59c9fe8e47bdba056a9a6e43fa599bb9a767af6e1cd3a"
+    },
+    {
+      "id": "02_upper_2",
+      "native_size": [
+        1277,
+        1231
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 497,
+      "inliers": 427,
+      "median_registration_error_source_px": 0.453546079254668,
+      "p95_registration_error_source_px": 1.1857431774497336,
+      "similarity_transform": [
+        [
+          1.0003582262309498,
+          0.0003382550704440047,
+          0.08339907424838695
+        ],
+        [
+          -0.0003382550704440047,
+          1.0003582262309498,
+          -0.20622333087137334
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        860,
+        0,
+        2115,
+        1210
+      ],
+      "sha256": "7767c622014872389342fe90f207f9e4ec312baec1fcb8c37c8e9d7eb456eb6d"
+    },
+    {
+      "id": "03_upper_3",
+      "native_size": [
+        1277,
+        1231
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 381,
+      "inliers": 265,
+      "median_registration_error_source_px": 0.5273726952913641,
+      "p95_registration_error_source_px": 1.3987693329780788,
+      "similarity_transform": [
+        [
+          1.0001640861841785,
+          0.0005099642910467715,
+          -0.25849459604210256
+        ],
+        [
+          -0.0005099642910467715,
+          1.0001640861841785,
+          0.18374398961272626
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        1725,
+        0,
+        2980,
+        1210
+      ],
+      "sha256": "f1c09c2bb9e70c3dcb7611aa5013e70c7017aa76a4888b6171a1521c282a4bb5"
+    },
+    {
+      "id": "04_upper_4",
+      "native_size": [
+        1277,
+        1231
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 525,
+      "inliers": 441,
+      "median_registration_error_source_px": 0.5675533877364947,
+      "p95_registration_error_source_px": 1.4232892690518328,
+      "similarity_transform": [
+        [
+          0.9995233402445975,
+          0.0001394422319812752,
+          0.057394178734854945
+        ],
+        [
+          -0.0001394422319812752,
+          0.9995233402445975,
+          -0.0007991095234343835
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        2585,
+        0,
+        3840,
+        1210
+      ],
+      "sha256": "98630dc4b49603c2293b1896d5ac2caeaeb5717b0723b8da430eceb259925ccc"
+    },
+    {
+      "id": "05_lower_1",
+      "native_size": [
+        1277,
+        1231
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 560,
+      "inliers": 494,
+      "median_registration_error_source_px": 0.46748903760413585,
+      "p95_registration_error_source_px": 1.4221528422665708,
+      "similarity_transform": [
+        [
+          1.0004906253773194,
+          -0.00015324244088194558,
+          0.07744759418316279
+        ],
+        [
+          0.00015324244088194558,
+          1.0004906253773194,
+          -0.2910244555964387
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        0,
+        847,
+        1255,
+        2057
+      ],
+      "sha256": "2f21670fb74e2fb8226d33f893dc4dc9cc75db83852ab64b906bcc2a6923abc7"
+    },
+    {
+      "id": "06_lower_2",
+      "native_size": [
+        1277,
+        1231
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 359,
+      "inliers": 280,
+      "median_registration_error_source_px": 0.5820930171503222,
+      "p95_registration_error_source_px": 1.3450436619570996,
+      "similarity_transform": [
+        [
+          0.9996753019908661,
+          -0.00020433754077372278,
+          0.051208282776425924
+        ],
+        [
+          0.00020433754077372278,
+          0.9996753019908661,
+          -0.44900135048449913
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        860,
+        847,
+        2115,
+        2057
+      ],
+      "sha256": "1a2f55bf7a3719d927c626bd3032833b4c7ba42e8f416d7a0fac8b4cd12dbfe0"
+    },
+    {
+      "id": "07_lower_3",
+      "native_size": [
+        1277,
+        1231
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 261,
+      "inliers": 216,
+      "median_registration_error_source_px": 0.46429122951312374,
+      "p95_registration_error_source_px": 1.4199781470995414,
+      "similarity_transform": [
+        [
+          1.0000798977013312,
+          -0.0002094000348460811,
+          0.1196288382211152
+        ],
+        [
+          0.0002094000348460811,
+          1.0000798977013312,
+          -0.15860161230574862
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        1725,
+        847,
+        2980,
+        2057
+      ],
+      "sha256": "5b7f2d0573fa1aae2eef7f17e909ce3d76234130ca8ea906227ad129bae45749"
+    },
+    {
+      "id": "08_lower_4",
+      "native_size": [
+        1277,
+        1232
+      ],
+      "output_size": [
+        1255,
+        1210
+      ],
+      "matches": 416,
+      "inliers": 340,
+      "median_registration_error_source_px": 0.6313238183128662,
+      "p95_registration_error_source_px": 1.594198599879166,
+      "similarity_transform": [
+        [
+          1.0003275062243981,
+          -0.0005691396299146121,
+          -0.14069643553645
+        ],
+        [
+          0.0005691396299146121,
+          1.0003275062243981,
+          -0.13997954254258838
+        ]
+      ],
+      "nonrigid_warp": false,
+      "output_box": [
+        2585,
+        847,
+        3840,
+        2057
+      ],
+      "sha256": "fb92dec28162e590395ba0e7ca2f16d4ed705ff0a4f40639b5a074cad3874042"
+    }
+  ],
+  "final_png_sha256": "2a9a71e1de227ae8e76e2ffccdf73a65631a22d0756a33459beefd1c37de420e"
+}

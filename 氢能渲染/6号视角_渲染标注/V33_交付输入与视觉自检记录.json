@@ -1,0 +1,64 @@
+{
+  "version": "V33",
+  "source": "C:\\Users\\WINDOWS\\.codex\\generated_images\\01a210de-0f9e-7921-be64-192eae2324c8\\exec-35892520-ec87-4d84-b38a-e4b8443b4a88.png",
+  "delivery": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\广州氢能_6号视角_宋式水院效果图_V33_檐下内退玻璃幕墙.png",
+  "size": [
+    1714,
+    918
+  ],
+  "sha256": "5650bef7a44236a33914cdfe234d3fea6a6f94e96c59c2aceabdd27e501e63e3",
+  "source_copy_identical": true,
+  "mode": "built-in image_gen",
+  "inputs": [
+    {
+      "path": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\rendering\\6.png",
+      "archived": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\6号视角_渲染标注\\V33_实际生成输入\\01_6.png",
+      "sha256": "f4b93ba6d54a6aef91fdcb4c3ef39e1e107a1a2f02a92bebeedd81617939913d"
+    },
+    {
+      "path": "C:\\Users\\WINDOWS\\AppData\\Local\\Temp\\h2-view6-geometry-jf5ob0qj\\V33_original_model_recessed_glass_control.png",
+      "archived": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\6号视角_渲染标注\\V33_实际生成输入\\02_V33_original_model_recessed_glass_control.png",
+      "sha256": "c0d8eb9fa41becdb4f37a5c8679be73c121769ffe533821891e49ddd1f8c8578"
+    },
+    {
+      "path": "C:\\Users\\WINDOWS\\.codex\\generated_images\\01a210de-0f9e-7921-be64-192eae2324c8\\exec-955e2c3b-1011-48b4-8c8b-6eb3196260aa.png",
+      "archived": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\6号视角_渲染标注\\V33_实际生成输入\\03_exec-955e2c3b-1011-48b4-8c8b-6eb3196260aa.png",
+      "sha256": "b0998e7ee4a38730550a0a74eca404d524c866ac91028aaff9acf8e677b9d9ff"
+    },
+    {
+      "path": "C:\\Users\\WINDOWS\\AppData\\Local\\Temp\\codex-clipboard-4905e08a-3fdf-410b-a1ee-2bc9d2650959.png",
+      "archived": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\6号视角_渲染标注\\V33_实际生成输入\\04_codex-clipboard-4905e08a-3fdf-410b-a1ee-2bc9d2650959.png",
+      "sha256": "b9e8b9930d67a095372c56d1643f8c1d5a43a2f5f4af3bb913830d17d4c5168a"
+    },
+    {
+      "path": "C:\\Users\\WINDOWS\\AppData\\Local\\Temp\\codex-clipboard-675bd9db-6540-41c3-babe-fecf814ba68a.png",
+      "archived": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\6号视角_渲染标注\\V33_实际生成输入\\05_codex-clipboard-675bd9db-6540-41c3-babe-fecf814ba68a.png",
+      "sha256": "f1e7510d35bad98d04282402c66025a3387298f25cc15c55339935d3cb89e2f6"
+    }
+  ],
+  "prompt": "C:\\Users\\WINDOWS\\Desktop\\氢能\\氢能渲染\\6号视角_渲染标注\\V33_上层挑檐内退玻璃幕墙提示词.txt",
+  "annotation_mapping": {
+    "crop_origin_on_V32": [
+      634,
+      10
+    ],
+    "sample_MSE": 0,
+    "red_rectangle_approx_on_full": [
+      788,
+      141,
+      1089,
+      191
+    ]
+  },
+  "visual_checks": [
+    "上层最高横向挑檐下新增连续竖向玻璃幕墙，玻璃接缝与弱反射可见",
+    "幕墙顶端位于前檐后方，前部檐底露出，右端檐口越过玻璃立边",
+    "原上下瓦顶轮廓与双段瀑布、白色分隔弧带保留",
+    "两侧薄纱、右平台两短座、近景大石与树、水雾和远端去石方向保留"
+  ],
+  "limitations": [
+    "以全景及局部作视觉复核；内退距离为图面设计表达，不是模型或施工尺寸验算。",
+    "整图独立生成，局部植物和石组形态有变化，非旧成图逐像素局部修改。"
+  ],
+  "refinement_dispatch": "本版未下发精修对话"
+}
