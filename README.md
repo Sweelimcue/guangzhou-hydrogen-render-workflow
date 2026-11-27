@@ -2,6 +2,8 @@
 
 适用于本项目的建筑白模、宋式庭院、室内与屋顶花园效果图。从原始机位出发，依次完成标注、渲染、独立评审、定版和分区精修。本仓库用 6 号 V33 的白模、标注、评审证据和 4K 成图演示全流程。文中其他视角是项目复盘案例。更新于 2026-11-27。
 
+Codex 可使用仓库内的 [architectural-render-workflow skill](.agents/skills/architectural-render-workflow/SKILL.md)。在任务中指定 `$architectural-render-workflow` 可调用标注、渲染、评审或精修流程。
+
 ## 1. 项目入口与交接
 
 | 环节 | 项目中的对话 | 交给下一环节的材料 |
